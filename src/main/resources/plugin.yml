@@ -1,0 +1,9 @@
+name: ChampDuel
+version: 1.0
+author: Obey
+main: de.obey.duel.Init
+commands:
+  arena:
+  duel:
+  duelkit:
+    aliases: [dkit]
